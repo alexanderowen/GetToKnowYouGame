@@ -1,0 +1,73 @@
+A "Get To Know You" game for 2 or more players.
+
+Each player starts with a stack of Post-It notes. Shuffle the deck so that
+all "Thoughtful" questions are on the bottom, "Interesting" questions are on
+top of them, and "Mundane" questions are on top of those.
+
+Before you start the game, have a drink.
+
+Rules of play:
+Each round, draw a card off the top of the deck.
+Each player writes 3 answers, 1 per sticky note. 2 of them should be lies, 
+1 of them should be a truth.
+All players reveal their answers, and the each player guesses which one 
+is a truth of the other players. 
+Which everyone has submitted a guess, players go around revealing which one
+was the truth. 
+
+Mundane
+- How old are you?
+- What is one of your favorite desserts?
+- When you were a kid, what was one of your favorite TV shows?
+- Who is one of your favorite musical artists?
+- What is one of your favorite drinks?
+- What is your favorite season?
+- Name one thing you were scared of as a child that's stupid.
+- What is one of your favorite video games?
+
+// Interesting?
+- Never have I ever _
+- What fictional character do you think most suits you?
+- I am afraid of _
+- If I could go back to being 14 and start learning 1 thing, I would learn _
+- If you could have a super power, what would it be?
+- What supernatural creature would you want to be?
+- What do you miss about being 16?
+- What are you most looking forward to in your life right now?
+- What is 1 thing you should get around to doing in the next 6 months, but probably won't?
+
+Thoughtful
+- What is 1 thing you would change about yourself?
+- The single largest influence on my life has been _
+- One of my favorite memories is _
+- One of the things I miss the most is _ 
+- Who is your favorite family member?
+- What is 1 thing you want to accomplish before you die?
+- What is one thing from your hometown that defines you?
+- What is one thing you thank your parents for doing?
+
+set aside
+- One of my largest regrets is _ (too heavy?)
+- I most identify as _
+-- If you have tattoos: which of your tattoos would you change if you could?
+-- If you don't have tattoos: if you could get a tattoo, what would it be of?
+
+brainstorm
+Have you ever laughed at a movie scene that no one else laughed at, and if so, what was it?
+Name 1 person you respect.
+What would be the worst possible wedding proposal you could receive?
+Name a celebrity that's attractive, but in a weird way.
+Choose 1 song that you could take credit for having written. What is it and why?
+If you could go back and rename a family pet, which one would it be and what would you name it?
+If you could take back 1 lie you told to someone, what would it be?
+If you could change history by lying to 1 person, what would you say?
+You invent a cocktail. What is 1 ingredient and what's it called?
+What's better: boat, blimp or buggy?
+If you could steal the voice of 1 celebrity, who's voice would you choose?
+What's a dealbreaker for you?
+Your stuck on a boat with 1 bag of candy, 1 child, and 1 item from your pocket or purse, what/who are they and can you escape?
+You can steal 1 art piece from a museum and hang it in your home. What do you take?
+If you could live in an amusement park, which one would you choose? And where would you live in it?
+Explain a memory of a show or movie you saw as a child that you can't prove exists because you've been unable to find it since.
+Name your personal proof of the Mandela Effect.
+Carnival clowns, yea or nay?
